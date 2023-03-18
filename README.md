@@ -14,10 +14,10 @@ Project building from "Rocktseat" classes.
 
 # Learning
 
-- Semantic (HTML)
-- selectors (CSS)
-- image applications
-- image settings
+- Navegation - Tag Nav
+- Display: Flex
+- style buttons
+- image in buttons
 - style in tags
 
 # Contact
